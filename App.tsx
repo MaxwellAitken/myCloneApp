@@ -42,7 +42,7 @@ export default function App() {
 
         <View style={{display: 'flex', gap: 20, marginTop: 20, marginLeft: 16}}>
 
-            {/* Popular  */}
+            {/* Popular */}
             <View style={{display: 'flex', gap: 8}}>
                 <Text style={{fontSize: 20, fontWeight: 'semibold', color: '#c9c9c9'}}>Popular this week</Text>
                 <View style={{display: 'flex', flexDirection: 'row', gap: 8}}>
